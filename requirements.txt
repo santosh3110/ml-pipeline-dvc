@@ -4,5 +4,5 @@ nltk
 pandas
 numpy
 dvc
-PyYAML
+Pyyaml
 -e .
